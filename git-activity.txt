@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Jae Marvin L. Salazar
 BSIS - 3A
 System Analysis and Design
+=======
+BSIS - 3A
+Jae Marvin L. Salazar
+System Analysis and Design
+>>>>>>> b0c9722693fb080a9e7cc3dba09b20725cd936f3
